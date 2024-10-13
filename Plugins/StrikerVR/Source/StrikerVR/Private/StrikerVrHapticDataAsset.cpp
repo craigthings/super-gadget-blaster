@@ -1,0 +1,2 @@
+#include "StrikerVrHapticDataAsset.h"
+
