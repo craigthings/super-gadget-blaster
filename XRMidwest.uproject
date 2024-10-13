@@ -30,6 +30,22 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "StrikerVR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "StrikerWS",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
 		}
 	],
 	"TargetPlatforms": [
